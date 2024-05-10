@@ -1,5 +1,4 @@
-{
-  "characters": [
+[
     {
       "name": "Arthur Morgan",
       "gender": "Male",
@@ -66,6 +65,4 @@
       "personality": "Milton is a complex and deeply flawed character. He is a staunch believer in societal progress and views himself as a force for good, yet his methods are often brutal and ruthless. He is determined to bring Dutch's gang to justice, even if it means resorting to morally questionable tactics like executing surrendered individuals and slaughtering unarmed people. Milton exhibits sadistic tendencies, taking pleasure in the suffering of others and displaying a lack of empathy. He is also racist and holds prejudiced views towards certain groups. Despite his adherence to the law, Milton's actions often blur the lines between justice and cruelty, making him a morally ambiguous figure.",
       "background": "Milton is a high-ranking detective in the Pinkerton National Detective Agency hired by Leviticus Cornwall to track down the Van der Linde gang after they rob his train. He first attempts to persuade Arthur Morgan to surrender Dutch in exchange for amnesty, but Arthur refuses. Later, Milton and Ross confront the gang at their camp, offering Dutch a similar deal, which Dutch pretends to accept before the gang draws their weapons. Milton warns them he will return with reinforcements and leaves. During a bank robbery in Saint Denis, Milton captures and kills Hosea Matthews, further escalating the conflict. After the gang returns from Guarma, Micah Bell becomes an informant for Milton, leading to a failed raid on the gang's hideout. Following this, Cornwall threatens to withdraw his funding due to Milton's lack of progress. Finally, during a train robbery, Milton captures Abigail, prompting Arthur and Sadie to attempt a rescue. Sadie is captured, and Arthur confronts Milton, who reveals Micah's betrayal. As Milton is about to execute Arthur, Abigail shoots and kills him. Despite Milton's death, the Pinkertons, now led by Edgar Ross, continue their pursuit of the Van der Linde gang."
     }
-  ]
-}
-
+]
