@@ -8,7 +8,7 @@
 Um projeto da Imersão IA, oferido pela [Alura](https://www.alura.com.br/) em parceria com o [Google](https://www.google.com.br/).
 
 ## 👨‍💻 Disponível abaixo no Colab
-<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/github/DavidRBz/RDR2-Chatbot/blob/main/Chatbot_RDR2.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/DavidRBz/RDR2-Chatbot/blob/main/Chatbot_RDR2.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
